@@ -1,0 +1,15 @@
+.card-picture{
+  width: 170px;
+  height: auto;
+}
+
+.container{
+  display: flex;
+}
+
+.card{
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px hsla(0, 0%, 0%, 0.349);
+}
